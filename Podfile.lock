@@ -1,0 +1,22 @@
+PODS:
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SwiftCoroutine (2.1.8)
+
+DEPENDENCIES:
+  - SDWebImage
+  - SwiftCoroutine
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SwiftCoroutine
+
+SPEC CHECKSUMS:
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SwiftCoroutine: 94a9d02aae382d4f0549a191d5ba5c01dfe752a5
+
+PODFILE CHECKSUM: 62427042ab0d99d78b4dba03b238d7b8505b9bd3
+
+COCOAPODS: 1.9.1
